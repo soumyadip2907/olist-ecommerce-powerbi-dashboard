@@ -200,9 +200,13 @@ Data preparation and transformation included:
 
 ## Dashboard Preview
 
+### Page 1 — Executive Overview
 
+![Executive Overview](Page_1_Executive_Overview.png)
 
-Screenshots of the dashboard will be added to this repository.
+### Page 2 — Customer, Seller & Operations Analysis
+
+![Customer, Seller & Operations Analysis](Page_2_Customer_Seller_Operations.png)
 
 
 
